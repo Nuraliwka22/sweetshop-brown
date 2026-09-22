@@ -1,0 +1,248 @@
+{
+ "items": [
+  {
+   "id": "b1",
+   "name": "Круассан классика",
+   "cat": "bakery",
+   "price": 590,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b2",
+   "name": "Круассан миндальный",
+   "cat": "bakery",
+   "price": 920,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b3",
+   "name": "Круассан фисташка",
+   "cat": "bakery",
+   "price": 850,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b4",
+   "name": "Круассан с сыром",
+   "cat": "bakery",
+   "price": 890,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b5",
+   "name": "Круассан со сгущенкой",
+   "cat": "bakery",
+   "price": 650,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b6",
+   "name": "Круассан с шоколадом",
+   "cat": "bakery",
+   "price": 650,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b7",
+   "name": "Круассан для сэндвичей",
+   "cat": "bakery",
+   "price": 590,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b8",
+   "name": "Мак булочка",
+   "cat": "bakery",
+   "price": 200,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "b9",
+   "name": "Сырники",
+   "cat": "bakery",
+   "price": 16000,
+   "unit": "кор.",
+   "desc": "50 шт. в коробке",
+   "on": true
+  },
+  {
+   "id": "b10",
+   "name": "Гранола",
+   "cat": "bakery",
+   "price": 2000,
+   "unit": "уп.",
+   "desc": "250 г",
+   "on": true
+  },
+  {
+   "id": "d1",
+   "name": "Вупи пай",
+   "cat": "dessert",
+   "price": 690,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d2",
+   "name": "Фисташковый рулет",
+   "cat": "dessert",
+   "price": 890,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d3",
+   "name": "Молочная девочка",
+   "cat": "dessert",
+   "price": 590,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d4",
+   "name": "Медовик",
+   "cat": "dessert",
+   "price": 590,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d5",
+   "name": "Испанский чизкейк",
+   "cat": "dessert",
+   "price": 690,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d6",
+   "name": "Казакша чизкейк",
+   "cat": "dessert",
+   "price": 790,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d7",
+   "name": "Картошка пирожное",
+   "cat": "dessert",
+   "price": 590,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d8",
+   "name": "Шоколадный брауни",
+   "cat": "dessert",
+   "price": 750,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d9",
+   "name": "Мини брауни в стаканчике",
+   "cat": "dessert",
+   "price": 890,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d10",
+   "name": "Кукис фисташка",
+   "cat": "dessert",
+   "price": 500,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d11",
+   "name": "Кукис брауни",
+   "cat": "dessert",
+   "price": 500,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d12",
+   "name": "Кукис красный бархат",
+   "cat": "dessert",
+   "price": 500,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d13",
+   "name": "Кукис классический",
+   "cat": "dessert",
+   "price": 500,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d14",
+   "name": "Брауни комплимент",
+   "cat": "dessert",
+   "price": null,
+   "unit": "порц.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d15",
+   "name": "Тарталетка клубника",
+   "cat": "dessert",
+   "price": 400,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d16",
+   "name": "Тарталетка малина",
+   "cat": "dessert",
+   "price": 400,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  },
+  {
+   "id": "d17",
+   "name": "Тарталетка банофи",
+   "cat": "dessert",
+   "price": 400,
+   "unit": "шт.",
+   "desc": "",
+   "on": true
+  }
+ ],
+ "updated": "2026-09-22"
+}
